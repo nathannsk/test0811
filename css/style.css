@@ -1,1 +1,40 @@
+button {
+    background-color:#abf897 ;
+    border-radius: 10px ;
+    display:flex ;
+    justify-content : center ;
+    align-items : center ;
+    margin:50px auto ;
+}
 
+body {
+    display:flex ;
+    justify-content : center ;
+    align-items : center ;
+    margin:50px center;
+    background-color:#000000 ;
+}
+
+div {
+    display:flex ;
+    justify-content : center ;
+    align-items : center ;
+    margin:50px auto ;
+    background-color:#ffffff ;
+    font-family: calibri;
+}
+
+h1 {
+    background-color:#ffffff ;
+    display:flex ;
+    justify-content : center ;
+    align-items : center ;
+    margin:50px auto ;
+}
+
+img {
+    display:flex ;
+    justify-content : center ;
+    align-items : center ;
+    margin:50px auto ;
+}
